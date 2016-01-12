@@ -4,7 +4,7 @@
 
   <groupId>es.egc</groupId>
   <artifactId>47427189Q</artifactId>
-  <version>3.0</version>
+  <version>3.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>ex1</name>
